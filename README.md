@@ -23,13 +23,11 @@
 
 # Примечание: навыки работы с Jira, Postman, DevTools и SQL указаны в резюме отдельно, в данном портфолио они не применялись.
 
-Cсылка на GitHub: https://github.com/kirikdenisov/first_project
-
 # Мои контакты:
 - Телефон: +7(968)435-14-75
 - Telegram: @Kirill_Deniso
 - Email: kirikdenisov@mail.ru
 - Резюме на hh.ru: https://hh.ru/resume/825aff5eff106130930039ed1f786471526f41
-- ССылка на GitHub: https://github.com/kirikdenisov
+- Сcылка на GitHub: https://github.com/kirikdenisov
 
 Дата: апрель 2026
